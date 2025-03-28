@@ -18,7 +18,7 @@ ticker = input("Borsa İstanbul hisse senedi sembolünü girin (örnek: TUPRS): 
 start = input("Veri için başlangıç tarihini girin (örnek: 2019-01-01): ")
 end = input("Veri için bitiş tarihini girin (örnek: 2025-03-28): ")
 
-# BIST için .IS kocu ekleme
+# BIST için .IS kodu ekleme
 if not ticker.endswith(".IS"):
     ticker += ".IS"
 
