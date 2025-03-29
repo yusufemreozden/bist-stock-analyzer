@@ -1,6 +1,6 @@
 # 📈 BIST Analyzer
 
-Technical indicator-based analysis tool for Turkish BIST stocks using Python.
+Technical indicator-based analysis tool for Turkiye BIST stocks using Python.
 
 ---
 
